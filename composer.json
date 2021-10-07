@@ -2,7 +2,7 @@
     "name": "recoil/react",
     "description": "Integrate Recoil with ReactPHP.",
     "require": {
-        "php": "^7.2",
+        "php": "^7.2|^8.0",
         "react/event-loop": "^1.0 || ^0.5 || ^0.4",
         "react/promise": "^2",
         "recoil/api": "^1",

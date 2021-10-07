@@ -8,13 +8,7 @@
         "recoil/api": "^1",
         "recoil/kernel": "^1.0.2"
     },
-    "require-dev": {
-       
-        "friendsofphp/php-cs-fixer": "^2",
-        "hamcrest/hamcrest-php": "^2",
-       
-        "recoil/dev": "^0.4"
-    },
+   
     "autoload": { "psr-4": { "Recoil\\React\\": "src" } },
     "autoload-dev": {
         "psr-4": { "Recoil\\React\\": "test/src" },

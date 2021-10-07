@@ -12,9 +12,7 @@
         "eloquent/phony": "^3.2",
         "friendsofphp/php-cs-fixer": "^2",
         "hamcrest/hamcrest-php": "^2",
-        "peridot-php/leo": "^1",
-        "peridot-php/peridot-code-coverage-reporters": "^2",
-        "peridot-php/peridot": "^1",
+       
         "recoil/dev": "^0.4"
     },
     "autoload": { "psr-4": { "Recoil\\React\\": "src" } },
